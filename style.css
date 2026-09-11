@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
-
-*{
+{
     margin:0;
     padding:0;
     box-sizing:border-box;
@@ -12,9 +11,6 @@ body{
     background:#0f0f0f;
     color:white;
 }
-
-/* Header */
-
 header{
     width:100%;
     padding:20px 8%;
@@ -44,8 +40,6 @@ nav a{
 nav a:hover{
     color:#fff;
 }
-
-/* Hero */
 
 .hero{
     min-height:100vh;
@@ -98,7 +92,7 @@ nav a:hover{
     color:white;
 }
 
-/* Hero Image */
+
 
 .circle{
     width:280px;
@@ -116,7 +110,7 @@ nav a:hover{
     color:white;
 }
 
-/* Sections */
+
 
 .section{
     padding:90px 10%;
@@ -138,7 +132,7 @@ nav a:hover{
     margin:12px auto;
 }
 
-/* Cards */
+
 
 .cards{
     display:flex;
@@ -171,7 +165,7 @@ nav a:hover{
     font-size:24px;
 }
 
-/* Project */
+
 
 .project-card{
     width:340px;
@@ -191,7 +185,7 @@ nav a:hover{
     margin-bottom:15px;
 }
 
-/* Contact */
+
 
 .contact-box{
     width:400px;
@@ -213,7 +207,7 @@ nav a:hover{
     margin-right:10px;
 }
 
-/* Footer */
+
 
 footer{
     background:#000;
